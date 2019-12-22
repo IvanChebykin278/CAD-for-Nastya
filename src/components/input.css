@@ -1,0 +1,6 @@
+.input-root {
+    display: flex;
+    width: 50px;
+    align-items: center;
+    margin: 5px;
+}
